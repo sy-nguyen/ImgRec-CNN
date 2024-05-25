@@ -18,6 +18,9 @@ Sử dụng kiến trúc VGG-19 được đào tạo trước trên tập dữ l
 
 | Model | Train acc | Val acc | Test acc |
 |---|---|---|---|
+| VGG-16 | 0.86 | 0.53 | 0.51 |
+| AlexNet | 0.8 | 0.46 | 0.43 |
+| Xception | 0.6 | 0.38 | 0.3 |
 | VGG-19 | 0.98 | 0.46 | 0.48 |
 | EfficientNet | 1.00 |0.57|0.54|
 | ResNet50 |1.00|0.57|0.56|
